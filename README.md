@@ -32,7 +32,7 @@
  </p>
 
 <h3 style="margin: 50px 50px 20px 50px" align="center">
-        <samp>I enjoy reading interesting documentations and figuring out how things work and playing sudoku makes me feel relaxed. Here are some of the languages, technologies, and tools I have used and am proficient with:
+        <samp>I enjoy going through interesting documentation and figuring out how things work. Here are some of the languages, technologies, and tools I have used and am proficient with:
         </samp>
 </h3>
   <p align="center">
@@ -49,3 +49,12 @@
   <img src="" alt="" />
   <img src="" alt="" />
  </p>
+
+<h3 style="margin: 50px 50px 20px 50px" align="center">
+        <samp>If I am not coding, I am probably blasting my Spotify playlist or completing another level in Sudoku. Here are some of the recent notable things I have done here on GitHub:
+        </samp>
+</h3>
+
+<p align="center">
+[![Weather Forecast](https://github-readme-stats.vercel.app/api/pin/?username=thesegunonakoya&repo=weather-forecast&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thesegunonakoya/weather-forecast)
+</p>
