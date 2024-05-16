@@ -28,7 +28,7 @@
  </a> -->
  </p>
 
-<h3 style="margin: 30px 50px 20px 50px" align="center">
+<h3 style="margin: 30px 50px 20px 50px" align="left">
         <samp>I enjoy going through interesting documentation and figuring out how things work. Here are some of the languages, technologies, and tools I have used and am proficient with:
         </samp>
 </h3>
@@ -47,7 +47,7 @@
   <!-- <img src="" alt="" /> -->
  </p>
 
-<h3 style="margin: 30px 50px 20px 50px" align="center">
+<h3 style="margin: 30px 50px 20px 50px" align="left">
         <samp>If I am not coding, I am probably blasting my Spotify playlist or completing another level in Sudoku. Here are the best ways to get in touch with me:
         </samp>
 </h3>
