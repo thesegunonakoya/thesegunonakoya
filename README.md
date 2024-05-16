@@ -1,4 +1,4 @@
-<h3 style="margin: 50px 50px 20px 50px" align="center">
+<h3 style="margin: 50px 50px 20px 50px" align="left">
         <samp>Hey There! I am
                 <b><a target="_blank" href="https://www.google.com/search?q=thesegunonakoya">Oluwasegun Onakoya</a></b>. I'm a full-stack software developer mostly proficient in JavaScript, HTML, CSS, Tailwind, PHP, WordPress, Bootstrap, MySQL, and Git — Coding is my therapy
         </samp>
