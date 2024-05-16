@@ -51,10 +51,12 @@
  </p>
 
 <h3 style="margin: 50px 50px 20px 50px" align="center">
-        <samp>If I am not coding, I am probably blasting my Spotify playlist or completing another level in Sudoku. Here are some of the recent notable things I have done here on GitHub:
+        <samp>If I am not coding, I am probably blasting my Spotify playlist or completing another level in Sudoku. Here is how busy i have been on GitHub:
         </samp>
 </h3>
 
-<p align="center">
-[![Weather Forecast](https://github-readme-stats.vercel.app/api/pin/?username=thesegunonakoya&repo=weather-forecast&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thesegunonakoya/weather-forecast)
-</p>
+<h6>
+
+![Oluwasegun Onakoya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesegunonakoya&custom_title=Oluwasegun%20Onakoya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</h6>
