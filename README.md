@@ -46,17 +46,15 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-  <img src="" alt="" />
-  <img src="" alt="" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="cloudinary" />
+  <!-- <img src="" alt="" /> -->
  </p>
 
 <h3 style="margin: 50px 50px 20px 50px" align="center">
-        <samp>If I am not coding, I am probably blasting my Spotify playlist or completing another level in Sudoku. Here is how busy i have been on GitHub:
+        <samp>If I am not coding, I am probably blasting my Spotify playlist or completing another level in Sudoku. Here are the best ways to get in touch with me:
         </samp>
 </h3>
-
-<h6>
-
-![Oluwasegun Onakoya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesegunonakoya&custom_title=Oluwasegun%20Onakoya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-</h6>
+  <p align="center">
+  <a target="blank" href="mailto:thesegunonakoya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a target="blank" href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+  </p>
