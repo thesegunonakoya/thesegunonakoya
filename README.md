@@ -5,24 +5,24 @@
 </h3>
 
 <p align="center" style="margin: 0 0 30px 0">
- <a href="#" target="blank">
+ <a href="https://www.linkedin.com/in/thesegunonakoya/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
  </a>
- <a href="#" target="blank">
+ <a href="https://github.com/thesegunonakoya" target="blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
  </a>
- <a href="#" target="blank">
+ <a href="https://www.instagram.com/thesegunonakoya/" target="blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
  </a>
- <a href="#" target="blank">
+ <a href="https://www.threads.net/@thesegunonakoya" target="blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="threads" />
  </a>
- <a href="#" target="blank">
+ <a href="https://twitter.com/thesegunonakoya" target="blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="x" />
  </a>
- <a href="#" target="blank">
+ <!-- <a href="#" target="blank">
   <img src="" alt="x" />
- </a>
+ </a> -->
  <!-- <a href="#" target="blank">
   <img src="" alt="" />
  </a> -->
@@ -53,7 +53,7 @@
 </h3>
   <p align="center">
   <a target="blank" href="mailto:thesegunonakoya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-  <a target="blank" href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+  <a target="https://wa.me/2349033990067" href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
   </p>
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=thesegunonakoya&label=Visitors&color=grey&style=for-the-badge&base=50" alt="Profile visitor" /> <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="wakatime" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=thesegunonakoya&label=Visitors&color=grey&style=for-the-badge&base=50" alt="Profile visitor" /> <a href="https://wakatime.com/@thesegunonakoya"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="wakatime" /></a></p>
