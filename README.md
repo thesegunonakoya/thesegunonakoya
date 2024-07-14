@@ -14,11 +14,3 @@
 
 [![wakatime](https://wakatime.com/badge/user/b759b98e-2d61-4b6f-b47c-f32e67da9e3a.svg?style=for-the-badge)](https://wakatime.com/@b759b98e-2d61-4b6f-b47c-f32e67da9e3a)
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thesegunonakoya/thesegunonakoya/output/snake.svg" alt="Snake animation" />
-
-###
