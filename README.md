@@ -1,5 +1,5 @@
 <h3 style="margin: 50px 50px 20px 50px" align="left">
-        <samp>Hey there, gorgeous stranger! I'm a full-stack software developer mostly proficient in JavaScript, CSS3, Tailwind, PHP, WordPress, MongoDB, MySQL, PostgreSQL, and Git — Coding is my therapy
+        <samp>I'm a curiosity-led full-stack software developer, mostly proficient in a range of technologies including JavaScript, HTML5, CSS3, React, Node.js, PHP, MongoDB, MySQL, PostgreSQL, Git, Tailwind CSS, WordPress, and Vercel.
         </samp>
 </h3>
 
